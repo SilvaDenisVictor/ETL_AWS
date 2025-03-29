@@ -1,0 +1,7 @@
+logs/
+terraform/.terraform*
+terraform/terraform*
+*__pycache__
+data/mempool*
+etl_aws/
+*.zip
