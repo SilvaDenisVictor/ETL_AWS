@@ -1,6 +1,6 @@
 # ETL Bitcoin with Airflow, AWS, and Terraform
 
-## Project Artcarchitecture
+## Project Architecture
 
 ![Project Artcarchitecture](docs/ETL-bitcoin-diagram.png)
 
@@ -108,4 +108,4 @@ This will create AWS Glue (data catalog, Glue Job, Glue Crawler), Lambda, and th
 
 ## Future Improvements
 - Explore additional data sources to enrich analyses.
-- Crete S3 bucket and Redshift cluster with the terraform.
+- Create S3 bucket and Redshift cluster with Terraform.
